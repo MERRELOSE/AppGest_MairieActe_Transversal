@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|c:\\users\\merrelose kennedy\\source\\repos\\mairiegestionapp\\mairiegestionapp\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\ajouteractenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\ajouteractenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\modifieracteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\modifieracteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\modifieractemariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\modifieractemariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\ajouteractenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\ajouteractenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\ajouteractemariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\ajouteractemariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\ajouteracteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\ajouteracteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\listeactemariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\listeactemariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\listeactenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\listeactenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\listeactenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\listeactenaissance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\listeacteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\listeacteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\ajouteracteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\ajouteracteventeterrain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\mairiegestionapp\\my project\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{62EF1781-8795-463E-A1C0-5E8383F24318}|MairieGestionApp\\MairieGestionApp.vbproj|solutionrelative:mairiegestionapp\\my project\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\MainForm.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\MainForm.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\MainForm.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\MainForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T09:01:38.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjouterActeNaissance.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeNaissance.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\AjouterActeNaissance.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeNaissance.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\AjouterActeNaissance.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T07:52:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\LoginForm.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\LoginForm.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\LoginForm.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\LoginForm.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T21:25:02.096Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModifierActeMariage.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ModifierActeMariage.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\ModifierActeMariage.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ModifierActeMariage.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\ModifierActeMariage.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T08:23:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\MainForm.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\MainForm.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\MainForm.vb",
+              "RelativeToolTip": "MairieGestionApp\\MainForm.vb",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T09:12:07.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModifierActeVenteTerrain.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ModifierActeVenteTerrain.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\ModifierActeVenteTerrain.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ModifierActeVenteTerrain.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\ModifierActeVenteTerrain.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T07:57:35.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AjouterActeNaissance.vb",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeNaissance.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\AjouterActeNaissance.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeNaissance.vb",
+              "RelativeToolTip": "MairieGestionApp\\AjouterActeNaissance.vb",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T08:07:24.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AjouterActeMariage.vb",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeMariage.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\AjouterActeMariage.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeMariage.vb",
+              "RelativeToolTip": "MairieGestionApp\\AjouterActeMariage.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T08:23:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListeActeNaissance.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeNaissance.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\ListeActeNaissance.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeNaissance.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\ListeActeNaissance.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T07:45:08.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListeActeMariage.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeMariage.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\ListeActeMariage.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeMariage.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\ListeActeMariage.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T07:44:06.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AjouterActeVenteTerrain.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeVenteTerrain.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\AjouterActeVenteTerrain.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeVenteTerrain.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\AjouterActeVenteTerrain.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T06:17:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListeActeNaissance.vb",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeNaissance.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\ListeActeNaissance.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeNaissance.vb",
+              "RelativeToolTip": "MairieGestionApp\\ListeActeNaissance.vb",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAQwA4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T07:48:05.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListeActeVenteTerrain.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeVenteTerrain.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\ListeActeVenteTerrain.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\ListeActeVenteTerrain.vb [Conception]",
+              "RelativeToolTip": "MairieGestionApp\\ListeActeVenteTerrain.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T07:46:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AjouterActeVenteTerrain.vb",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeVenteTerrain.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\AjouterActeVenteTerrain.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\AjouterActeVenteTerrain.vb",
+              "RelativeToolTip": "MairieGestionApp\\AjouterActeVenteTerrain.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T06:41:43.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\My Project\\Resources.resx",
+              "RelativeDocumentMoniker": "MairieGestionApp\\My Project\\Resources.resx",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\My Project\\Resources.resx",
+              "RelativeToolTip": "MairieGestionApp\\My Project\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-29T22:10:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\LoginForm.vb",
+              "RelativeDocumentMoniker": "MairieGestionApp\\LoginForm.vb",
+              "ToolTip": "C:\\Users\\MERRELOSE Kennedy\\source\\repos\\MairieGestionApp\\MairieGestionApp\\LoginForm.vb",
+              "RelativeToolTip": "MairieGestionApp\\LoginForm.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-28T16:51:03.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

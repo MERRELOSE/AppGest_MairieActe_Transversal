@@ -1,0 +1,45 @@
+Pour importer la base de données à partir du fichier MAIRIEDB.bacpac dans SQL Server Management Studio (SSMS), suivez ces étapes bien structurées :
+
+### Étape 1 : Préparer le fichier MAIRIEDB.bacpac
+Assurez-vous que le fichier MAIRIEDB.bacpac est accessible sur votre système, de préférence dans un emplacement facile à trouver comme le bureau ou un dossier spécifique.
+
+### Étape 2: Ouvrir SQL Server Management Studio
+1. Lancez SQL Server Management Studio (SSMS).
+2. Connectez-vous à l'instance de SQL Server où vous souhaitez importer la base de données.
+
+### Étape 3: Importer le fichier MAIRIEDB.bacpac
+1. **Cliquez avec le bouton droit sur "Databases" (Bases de données)** :
+   - Dans l'Object Explorer, cliquez avec le bouton droit sur le dossier "Databases".
+
+2. **Sélectionner "Import Data-tier Application"** :
+   - Dans le menu contextuel, sélectionnez "Tasks" puis "Import Data-tier Application...".
+
+3. **Démarrer l'Assistant Importation** :
+   - L'Assistant Importation d'application de niveau de données s'ouvre. Cliquez sur "Next".
+
+4. **Spécifier le fichier de la base de données** :
+   - Sélectionnez "Import from local disk".
+   - Cliquez sur "Browse" et naviguez jusqu'à l'emplacement où vous avez stocké le fichier MAIRIEDB.bacpac.
+   - Sélectionnez le fichier MAIRIEDB.bacpac et cliquez sur "Open".
+   - Cliquez sur "Next".
+
+5. **Configurer les paramètres de la base de données** :
+   - Spécifiez le nom de la nouvelle base de données.
+   - Spécifiez le groupe de fichiers et l'emplacement pour les fichiers de données et de journal. Vous pouvez généralement laisser les valeurs par défaut à moins d'avoir une configuration spécifique.
+
+6. **Vérifier le résumé** :
+   - Vérifiez les paramètres dans la page "Summary" (Résumé) et assurez-vous qu'ils sont corrects.
+   - Cliquez sur "Finish" pour commencer l'importation.
+
+### Étape 4 : Suivre la progression de l'importation
+- Une fois que vous avez cliqué sur "Finish", l'importation commencera.
+- Vous pouvez suivre la progression de l'importation dans la fenêtre "Results" (Résultats).
+- Une fois l'importation terminée, vous recevrez une confirmation indiquant que le processus s'est terminé avec succès.
+
+### Étape 5 : Vérifier l'importation
+1. **Actualiser le nœud des bases de données** :
+   - Dans l'Object Explorer, cliquez avec le bouton droit sur le dossier "Databases" et sélectionnez "Refresh".
+
+2. **Vérifier la nouvelle base de données** :
+   - La nouvelle base de données importée devrait maintenant apparaître dans la liste des bases de données (MAIRIEDB).
+   - Développez la base de données pour vous assurer que toutes les tables( Mariage, Utilisateurs, VenteTerrain et Naissance) et les données attendues sont présentes.

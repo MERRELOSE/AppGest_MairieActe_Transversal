@@ -1,0 +1,109 @@
+Structure de la Base de Données
+
+### Tables Principales
+1. **Table Naissance** :
+    - Nom
+    - Prénom
+    - DateNaissance
+    - Commune
+    - Hopital
+    - NomPere
+    - PrenomPere
+    - NomMere
+    - PrenomMere
+    - Reference
+
+2. **Table Mariage** :
+    - NomEpoux
+    - PrenomEpoux
+    - NomEpouse
+    - PrenomEpouse
+    - DateMariage
+    - CommuneMariage
+    - NomTemoinEpoux1
+    - PrenomTemoinEpoux1
+    - NomTemoinEpoux2
+    - PrenomTemoinEpoux2
+    - NomTemoinEpouse1
+    - PrenomTemoinEpouse1
+    - NomTemoinEpouse2
+    - PrenomTemoinEpouse2
+    - NomOfficierCelebrant
+    - PrenomOfficierCelebrant
+    - Reference
+
+3. **Table VenteTerrain** :
+    - NomVendeur
+    - PrenomVendeur
+    - NomAcheteur
+    - PrenomAcheteur
+    - SiteTerrain
+    - Superficie
+    - PrixVente
+    - DateVente
+    - NomTemoinVente1
+    - PrenomTemoinVente1
+    - NomTemoinVente2
+    - PrenomTemoinVente2
+    - Reference
+
+4. **Table Utilisateurs** :
+    - NomUtilisateur
+    - MotDePasse
+
+### Création des Tables (SQL)
+```sql
+
+CREATE TABLE Naissance (
+    Nom VARCHAR(50),
+    Prenom VARCHAR(50),
+    DateNaissance DATE,
+    Commune VARCHAR(50),
+    Hopital VARCHAR(50),
+    NomPere VARCHAR(50),
+    PrenomPere VARCHAR(50),
+    NomMere VARCHAR(50),
+    PrenomMere VARCHAR(50),
+    Reference VARCHAR(50) PRIMARY KEY
+);
+
+CREATE TABLE Mariage (
+    NomEpoux VARCHAR(50),
+    PrenomEpoux VARCHAR(50),
+    NomEpouse VARCHAR(50),
+    PrenomEpouse VARCHAR(50),
+    DateMariage DATE,
+    CommuneMariage VARCHAR(50),
+    NomTemoinEpoux1 VARCHAR(50),
+    PrenomTemoinEpoux1 VARCHAR(50),
+    NomTemoinEpoux2 VARCHAR(50),
+    PrenomTemoinEpoux2 VARCHAR(50),
+    NomTemoinEpouse1 VARCHAR(50),
+    PrenomTemoinEpouse1 VARCHAR(50),
+    NomTemoinEpouse2 VARCHAR(50),
+    PrenomTemoinEpouse2 VARCHAR(50),
+    NomOfficierCelebrant VARCHAR(50),
+    PrenomOfficierCelebrant VARCHAR(50),
+    Reference VARCHAR(50) PRIMARY KEY
+);
+
+CREATE TABLE VenteTerrain (
+    NomVendeur VARCHAR(50),
+    PrenomVendeur VARCHAR(50),
+    NomAcheteur VARCHAR(50),
+    PrenomAcheteur VARCHAR(50),
+    SiteTerrain VARCHAR(50),
+    Superficie DECIMAL(10, 2),
+    PrixVente DECIMAL(10, 2),
+    DateVente DATE,
+    NomTemoinVente1 VARCHAR(50),
+    PrenomTemoinVente1 VARCHAR(50),
+    NomTemoinVente2 VARCHAR(50),
+    PrenomTemoinVente2 VARCHAR(50),
+    Reference VARCHAR(50) PRIMARY KEY
+);
+
+CREATE TABLE Utilisateurs (
+    NomUtilisateurs VARCHAR(50) PRIMARY KEY,
+    MotDePasse VARCHAR(50)
+);
